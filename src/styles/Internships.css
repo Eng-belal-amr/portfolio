@@ -1,0 +1,28 @@
+.internships {
+    padding: 80px 10%;
+    background-color: #121212;
+    color: #eee;
+  }
+  
+  .internships h2 {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    color: #00ffcc;
+  }
+  
+  .intern-item {
+    margin-bottom: 2rem;
+    border-left: 3px solid #00ffcc;
+    padding-left: 12px;
+  }
+  
+  .intern-item h3 {
+    margin-bottom: 0.5rem;
+    color: #00ffcc;
+  }
+  
+  .intern-item span {
+    font-size: 0.9rem;
+    color: #aaa;
+  }
+  
