@@ -55,4 +55,18 @@
     background-color: #00ffcc;
     color: #000;
   }
+  .hero-img {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 1rem;
+    border: 3px solid #00ffcc;
+    box-shadow: 0 0 12px rgba(0, 255, 204, 0.4);
+    transition: transform 0.4s ease;
+  }
+  
+  .hero-img:hover {
+    transform: scale(1.05);
+  }
   
