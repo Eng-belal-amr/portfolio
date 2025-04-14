@@ -1,13 +1,7 @@
 import '../styles/Projects.css';
 
 const projectList = [
-  {
-    title: "E-commerce Website",
-    description: "Fully functional e-commerce site with product listing and cart features using React.",
-    code: "https://github.com/hegoo2004", // Replace with actual repo if available
-    live: "#", // Add live URL if deployed
-    delay: 100,
-  },
+  
   {
     title: "iPhone 13 Pro Max Color Picker",
     description: "Interactive SPA that lets users preview and select iPhone 13 Pro Max colors. Built with React.",
@@ -21,6 +15,12 @@ const projectList = [
     code: "https://github.com/hegoo2004/StayHub",
     live: "#",
     delay: 300,
+  },{
+    title: "E-commerce Website",
+    description: "Fully functional e-commerce site with product listing and cart features using React.",
+    code: "https://github.com/hegoo2004", // Replace with actual repo if available
+    live: "#", // Add live URL if deployed
+    delay: 100,
   }
 ];
 
